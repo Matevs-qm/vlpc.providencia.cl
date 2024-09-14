@@ -13624,7 +13624,7 @@ body {
 }
 
 .exterior-int .titulo-tema h3:after {
-    content: src="zigzag_negro.svg";
+    content: url=(zigzag_negro.svg);
     display: block;
     line-height: .5rem
 }
